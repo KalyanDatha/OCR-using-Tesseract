@@ -36,11 +36,14 @@ This App is based on <a href="https://github.com/tesseract-ocr/tesseract/blob/ma
 
 ## <font color="#2467d6"><b>Code Contributors </b></font>
 
-* DATHA PAVAN KALYAN
+* Datha Pavan Kalyan
+* Jally Brahmani
+* Jagidar Ayesha
+* A Praveen Kumar
   
   
 ## 📓 <font color="#2467d6"><b>Licenses of various Libraries</b></font>
- * Tesseract and Tesseract Data: [Apache 2.0](https://github.com/tesseract-ocr/tesseract/blob/master/LICENSE)
+* Tesseract and Tesseract Data: [Apache 2.0](https://github.com/tesseract-ocr/tesseract/blob/master/LICENSE)
 * Tesseract4Android : [Apache 2.0](https://github.com/adaptech-cz/Tesseract4Android/blob/master/LICENSE)
 * ImageCropper : [Apache 2.0](https://github.com/ArthurHub/Android-Image-Cropper/blob/master/LICENSE.txt)
 * SpinnerDialog: [Apache 2.0](https://github.com/MdFarhanRaja/SearchableSpinner/blob/master/LICENSE)
